@@ -39,11 +39,16 @@ The VM use as part of the hack day was provided by (Microsoft Azure for Research
 
 ## The team
 The team was comprised of the follow members:
-* James 'The Earl of' Spencer (captain, GitHub: jsspencer)
-* Husam 'The Mucical Genius' Hebaishi
-* Florian 'Too busy coding' Rathgeber (GitHub: kynan)
-* Dan 'The Faux Canadian' Sellars (Github: dansellars)
-* Mark 'The Main Man' Begale (Github: cbitstech)
+
+![](https://raw.githubusercontent.com/dansellars/adhd_web/master/pics/James-sm.jpg) James 'The Earl of' Spencer (captain, GitHub: jsspencer)
+
+![](https://raw.githubusercontent.com/dansellars/adhd_web/master/pics/Husam-sm.jpg) Husam 'The Mucical Genius' Hebaishi
+
+![](https://raw.githubusercontent.com/dansellars/adhd_web/master/pics/Florian-sm.jpg) Florian 'Too busy coding' Rathgeber (GitHub: kynan)
+
+![](https://raw.githubusercontent.com/dansellars/adhd_web/master/pics/Dan-sm.jpg) Dan 'The Faux Canadian' Sellars (Github: dansellars)
+
+![](https://raw.githubusercontent.com/dansellars/adhd_web/master/pics/Mark-sm.jpg)Mark 'The Main Man' Begale (Github: cbitstech)
 
 
 
