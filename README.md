@@ -43,15 +43,21 @@ Our solution was to develop an end to end framework to allow researchers to admi
 - provide a researcher with the ability export the data as a csv
 - provide a researcher with the ability export the data as an excel document
 
-# Where to get the App
+# How to Set Up the App
 
-TODO
+1. [Install Purple Robot by from the Google Play Store](https://play.google.com/store/apps/details?id=edu.northwestern.cbits.purple_robot_manager&hl=en)
+
+2. Allow installs from non-Market apps. To do this, tap the menu button on your home screen (or go to the Apps >> Settings Menu), then click the enable box in Settings >> Applications >> Unknown sources.
+
+3. [Install the ADHD Survey App by Downloading and Running from this Link](https://github.com/dansellars/adhd_web/edit/master/README.md) 
+
+4. To edit questions, visit the [Question Manager]()
 
 # Tools used
 ## Purple Robot
 Thus tool was build using [Purple Robot] (https://play.google.com/store/apps/details?id=edu.northwestern.cbits.purple_robot_manager&hl=en) a sensing and scripting application that enables the creation of context-aware behavioral interventions and experiences.
 
-More information about how to set up and use Pruple Robot can be foud at the [Northwestern website](http://tech.cbits.northwestern.edu/purplerobot/)
+More information about how to set up and use Pruple Robot can be found at the [Northwestern website](http://tech.cbits.northwestern.edu/purplerobot/)
 
 ## Microsoft Azure Cloud
 The VM use as part of the hack day was provided by [Microsoft Azure for Research programme] (http://research.microsoft.com/en-us/projects/azure/default.aspx).
