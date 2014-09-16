@@ -44,7 +44,7 @@ The team was comprised of the follow members:
 
 ![](https://raw.githubusercontent.com/dansellars/adhd_web/master/pics/James-sm.jpg) James 'The Earl of' Spencer (captain, GitHub: jsspencer)
 
-![](https://raw.githubusercontent.com/dansellars/adhd_web/master/pics/Husam-sm.jpg) Husam 'The Mucical Genius' Hebaishi
+![](https://raw.githubusercontent.com/dansellars/adhd_web/master/pics/Husam-sm.jpg) Husam 'The Muscical Genius' Hebaishi
 
 ![](https://raw.githubusercontent.com/dansellars/adhd_web/master/pics/Florian-sm.jpg) Florian 'Too busy coding' Rathgeber (GitHub: kynan)
 
