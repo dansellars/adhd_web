@@ -52,11 +52,11 @@ Thus tool was build using [Purple Robot] (https://play.google.com/store/apps/det
 More information about how to set up and use Pruple Robot can be foud at the [Northwestern website](http://tech.cbits.northwestern.edu/purplerobot/)
 
 ## Microsoft Azure Cloud
-The VM use as part of the hack day was provided by (Microsoft Azure for Research programme) [http://research.microsoft.com/en-us/projects/azure/default.aspx].
+The VM use as part of the hack day was provided by [Microsoft Azure for Research programme] (http://research.microsoft.com/en-us/projects/azure/default.aspx).
 
 ## Form builder
 
-(Formbuilder)[https://github.com/dobtco/formbuilder] is a graphical interface for letting users build their own webforms.
+[Formbuilder](https://github.com/dobtco/formbuilder) is a graphical interface for letting users build their own webforms.
 
 # The team
 The team was comprised of the follow members:
