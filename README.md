@@ -36,7 +36,7 @@ More information about ADHD the symptoms associated with it can be found at the 
 Our solution was to develop an end to end framework to allow researchers to administer questions to patients as well as to report back the responses to those researchers. It is implemented as an offline application that makes use of cloud resources.
 
 # We Propose To
-- provide an end-user to respond to questions
+- provide a patient / end-user with the ability to respond to questions on a mobile device in a clinic
 - provide a researcher with the ability to create a questionnaire
 - provide a researcher with the ability capture the data from the application
 - provide a researcher with the ability export the data as a summarized pdf
@@ -85,4 +85,6 @@ Florian 'Too busy coding' Rathgeber (GitHub: kynan)
 
 Dan 'The Faux Canadian' Sellars (Github: dansellars)
 
-![](https://raw.githubusercontent.com/dansellars/adhd_web/master/pics/Mark-sm.jpg)Mark 'The Main Man' Begale (Github: cbitstech)
+![](https://raw.githubusercontent.com/dansellars/adhd_web/master/pics/Mark-sm.jpg)
+
+Mark 'The Main Man' Begale (Github: cbitstech)
