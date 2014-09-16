@@ -53,7 +53,7 @@ Our solution was to develop an end to end framework to allow researchers to admi
 
 3. [Install the ADHD Survey App by Downloading and Running from this Link](https://github.com/dansellars/adhd_web/edit/master/README.md) 
 
-4. To edit questions, visit the [Question Manager]()
+4. To edit questions, visit the [Question Manager](http://cbitstech.github.io/adhd_form_builder/#/)
 
 # Tools used
 ## Purple Robot
