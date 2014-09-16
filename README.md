@@ -3,7 +3,8 @@
 
 This is the project page for Team 5 men with ADHD at the RSE 2014 Hackday held at ORTUS part of the [Maudsley Learning Centre](http://www.maudsleylearning.com/the-ortus/). This hack day was held as part of the RSE AGM on the 16th September 2014.
 
-Install the app for Android here ![](https://raw.githubusercontent.com/dansellars/adhd_web/master/pics/QR.png) 
+Install the app for Android with this QR Code  
+![](https://raw.githubusercontent.com/dansellars/adhd_web/master/pics/QR.png) 
 
 # The task set
 The task that was set was to find an alternative to postal questionnaires for standard assessments
