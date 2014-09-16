@@ -6,10 +6,10 @@ This is the project page for Team 5 men with ADHD at the RSE 2014 Hackday held a
 # The task set
 The task that was set was to find an alternative to postal questionnaires for standard assessments
 
-Proposed By: 
-Dr Maria Jalmbrant
-Senior Clinical Psychologist at the Lewisham adult ASD & ADHD service
-Lewisham University Hospital
+# Proposed By: 
+Dr Maria Jalmbrant  
+Senior Clinical Psychologist at the Lewisham adult ASD & ADHD service  
+Lewisham University Hospital  
 
 This is an issue that if solved would have massive impact on our (and probably others') services as well.
 
