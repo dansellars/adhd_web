@@ -27,6 +27,7 @@ Attention deficit hyperactivity disorder (ADHD) is a group of behavioural sympto
 
 - Approximately 11% of children 4-17 years of age (6.4 million) have been diagnosed with ADHD as of 2011.
 - The percentage of children with an ADHD diagnosis continues to increase, from 7.8% in 2003 to 9.5% in 2007 and to 11.0% in 2011.
+
 [Sourced from CDC ](http://www.cdc.gov/ncbddd/adhd/data.html)
 
 More information about ADHD the symptoms associated with it can be found at the [NHS introduction page on ADHD](http://www.nhs.uk/conditions/Attention-deficit-hyperactivity-disorder/Pages/Introduction.aspx).
