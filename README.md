@@ -24,17 +24,26 @@ More information about ADHD the symptoms associated with it can be found at the 
 
 ## Tools used
 # Purple Robot
+Thus tool was build using [Purple Robot] (https://play.google.com/store/apps/details?id=edu.northwestern.cbits.purple_robot_manager&hl=en) a sensing and scripting application that enables the creation of context-aware behavioral interventions and experiences.
+
+More information about how to set up and use Pruple Robot can be foud at the [Northwestern website](http://tech.cbits.northwestern.edu/purplerobot/)
+
+# Microsoft Azure Cloud
+The VM use as part of the hack day was provided by (Microsoft Azure for Research programme) [http://research.microsoft.com/en-us/projects/azure/default.aspx].
+
 # Form builder
+
+(Formbuilder)[https://github.com/dobtco/formbuilder] is a graphical interface for letting users build their own webforms.
 
 ## About ADHD
 
 ## The team
 The team was comprised of the follow members:
-* James '' Spencer (captain, GitHub: jsspencer)
-* Husam Hebaishi
+* James 'The Earl of' Spencer (captain, GitHub: jsspencer)
+* Husam 'The Mucical Genius' Hebaishi
 * Florian 'Too busy coding' Rathgeber (GitHub: kynan)
 * Dan 'The Faux Canadian' Sellars (Github: dansellars)
-* Mark Begale (Github: cbitstech)
+* Mark 'The Main Man' Begale (Github: cbitstech)
 
 
 
