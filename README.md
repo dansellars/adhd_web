@@ -52,7 +52,7 @@ Our solution was to develop an end to end framework to allow researchers to admi
 
 2. Allow installs from non-Market apps. To do this, tap the menu button on your home screen (or go to the Apps >> Settings Menu), then click the enable box in Settings >> Applications >> Unknown sources.
 
-3. [Install the ADHD Survey App by Downloading and Running from this Link](https://github.com/dansellars/adhd_web/edit/master/README.md) 
+3. [Install the ADHD Survey App by Downloading and Running from this Link](https://github.com/cbitstech/adhd_phone_app/raw/master/MobiSurvey.apk) 
 
 4. To edit questions, visit the [Question Manager](http://cbitstech.github.io/adhd_form_builder/#/)
 
